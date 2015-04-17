@@ -1,8 +1,8 @@
 require "formula"
 
 class Kf5Kate < Formula
-  url "http://download.kde.org/stable/applications/14.12.3/src/kate-14.12.3.tar.xz"
-  sha1 "57a34ad4dfb8e1a8c8f76244cf571cb1ce8f5c28"
+  url "http://download.kde.org/stable/applications/15.04.0/src/kate-15.04.0.tar.xz"
+  sha1 "2ba29201f2b41f545874f9a58b229bd6acdc5163"
   homepage "http://www.kde.org/"
 
   head "git://anongit.kde.org/kate.git"
