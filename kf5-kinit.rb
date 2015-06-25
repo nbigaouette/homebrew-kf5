@@ -1,8 +1,8 @@
 require "formula"
 
 class Kf5Kinit < Formula
-  url "http://download.kde.org/stable/frameworks/5.10/kinit-5.10.0.tar.xz"
-  sha1 "b6a2ae5c669b4a8539f15ca6bd7c455131ef35da"
+  url "http://download.kde.org/stable/frameworks/5.11/kinit-5.11.0.tar.xz"
+  sha1 "e9babb929e27419cc78b0b4936764616680bbf0c"
   homepage "http://www.kde.org/"
 
   head 'git://anongit.kde.org/kinit.git'
